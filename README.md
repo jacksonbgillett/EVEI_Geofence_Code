@@ -25,3 +25,5 @@ Setup:
    -Open your VsCode and open your folder with the computer-end-code in it
    -In the terminal you have to install the following package (run this command): pip install pyserial
    -In the code under the initialize function you have to change the COM- port. Change the number to the same number as the thonny interpreter used
+   -You also need the coordinates.csv in your folder from the website
+   -The website can be found here: https://scooter1946.github.io/epics-evei.github.io/
