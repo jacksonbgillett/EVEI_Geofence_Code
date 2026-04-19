@@ -48,3 +48,16 @@ Setup:
    -You also need the coordinates.csv in your folder from the website
    
    -The website can be found here: https://scooter1946.github.io/epics-evei.github.io/
+
+8. Run the Code
+   -Running the whole system isn't bad but making edits is a little tedious, we tried to change it but it wasn't worth the time sink
+   
+   -Open VsCode and plug the usb from the pico into your pc
+   
+   -With a coordinates.csv file in the folder, run the code
+   
+   -It should boot up and try to get a lock on the sattelites
+   
+   -You will most likely have to go outside to get it to work
+   
+   -Wait a while and the code should boot up and get readings from the IMU and antenna
