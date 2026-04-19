@@ -64,5 +64,7 @@ Setup:
    -Wait a while and the code should boot up and get readings from the IMU and antenna
 
 9. Editing
+
    -You can edit the VsCode like normal
+
    -To edit the code in thonny, you have to plug in to the pico, select the interpreter, and click on the main.py file under the files
