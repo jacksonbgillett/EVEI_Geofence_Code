@@ -50,6 +50,7 @@ Setup:
    -The website can be found here: https://scooter1946.github.io/epics-evei.github.io/
 
 8. Run the Code
+
    -Running the whole system isn't bad but making edits is a little tedious, we tried to change it but it wasn't worth the time sink
    
    -Open VsCode and plug the usb from the pico into your pc
